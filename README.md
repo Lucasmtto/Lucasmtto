@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lucas Miotto Prates</h1>
 <h3 align="center">A full stack developer from Brazil, trying to learn and be better at programing every day!</h3>
 
-- I’m currently working with **C#, Angular 14** and using in my own projects **go langa**.
+- I’m currently working with **C#, Angular 15** and using in my own projects **go langa**.
 
 - How to reach me **lucas.mttoprt@gmail.com**
 
