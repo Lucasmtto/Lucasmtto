@@ -3,7 +3,7 @@
 
 - I’m currently working with **C#, Angular 15** and using in my own projects **go lang**.
 
-- How to reach me **lucas.mttoprt@gmail.com**
+- How to reach me **lucasmttoprates@gmail.com**
 
 - Know about my experiences [https://www.linkedin.com/in/lucas-miotto-550224122/](https://www.linkedin.com/in/lucas-miotto-550224122/)
 
